@@ -9,4 +9,6 @@ int main(){
 	cout << 'Luas Rumah  :'<<luasRumah<<"m2"<<endl;
 	cout << 'Luas 1 box parket :'<<luas1box<<"m2"<<endl;
 	
+	double jumlahBoxP,biayaParket,biayaPasang,totalBiaya;
+	
 }
